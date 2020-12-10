@@ -1,0 +1,6 @@
+HTML was linked to the incorrect JS
+Color options were not linked to the correct color ID
+The header was not identified with <h1> </h1> or the proper CSS
+Pink was missing quotations "" in JS
+List was lissing <li> </li> 
+Not sure what was wrong with grow/shrink but its fixed
